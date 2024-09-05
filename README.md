@@ -17,7 +17,7 @@ Long Short-term Memory (LSTM) has shown to give an extraordinary result in solvi
 Programming Language: python 
 Platform: Spyder
 
-# Spell check using NLP
+# Word's Spell check using NLP
 ### Prerequisites
 
 First thing which you need to install is textblob library
