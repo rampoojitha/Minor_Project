@@ -1,5 +1,5 @@
 # Minor_Project
-Spell Check using NLP
+Word's Spell Check using NLP
 This project is composed of two parts;
 1 . A trained RNN (LSTM) and
 2 . A character level bigram model. 
